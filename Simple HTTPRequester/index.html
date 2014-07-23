@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTTP Requester</title>
+    <style>
+        #students-list {
+            list-style-type: none;
+            width: 200px;
+        }
+
+        .student {
+            padding: 5px;
+        }
+
+            .student:nth-child(odd) {
+                background: #e8e8e8;
+            }
+
+            .student:nth-child(even) {
+                background: #d3d3d3;
+            }
+    </style>
+</head>
+<body>
+    <button id="get-data-button">Get Data</button>
+    <div id="result"></div>
+    <script src="scripts/require.js" data-main="app"></script>
+</body>
+</html>

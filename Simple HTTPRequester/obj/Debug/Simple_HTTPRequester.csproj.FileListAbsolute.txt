@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\bin\Simple_HTTPRequester.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\bin\Simple_HTTPRequester.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\bin\Simple_HTTPRequester.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\obj\Debug\Simple_HTTPRequester.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\obj\Debug\Simple_HTTPRequester.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Simple HTTPRequester\Simple HTTPRequester\obj\Debug\Simple_HTTPRequester.pdb
